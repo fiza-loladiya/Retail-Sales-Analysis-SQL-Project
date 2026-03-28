@@ -2,7 +2,7 @@
 
 **Project Title:** Retail Sales Analysis  
 **Level:** Beginner  
-**Database:** sales  
+**Database:** sales   
 
 ### Project Context  
 Retail businesses generate thousands of transactions daily, but raw transaction data is not directly useful unless it is properly structured and cleaned. In this project, I worked with retail sales transaction data that needed to be organized into a database and validated for missing/invalid records so that accurate analysis could be performed. The goal was to understand **category performance**, **customer behaviour**, and **time-based sales trends** using SQL.
